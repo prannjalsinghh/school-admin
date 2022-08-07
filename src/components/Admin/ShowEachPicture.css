@@ -1,0 +1,9 @@
+div img{
+    width: 20%;
+}
+@media screen and (max-width: 950px){
+    div img{
+        width: 70%;
+    }
+    
+}
